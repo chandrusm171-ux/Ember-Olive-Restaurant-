@@ -1,16 +1,50 @@
-# React + Vite
+# Ember & Olive — Restaurant Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive restaurant website built with React and Vite for **Ember & Olive**, a fictional neighborhood kitchen focused on good food, warm moments, and a welcoming dining experience.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Responsive restaurant landing page
+- Modern editorial-style UI
+- Hero section with restaurant branding
+- Featured dishes section
+- Complete menu with category filtering
+- About / restaurant story page
+- Reservation form
+- Contact form
+- Restaurant information and opening hours
+- Responsive mobile navigation
+- Reusable UI components
+- React Router based navigation
+- Interactive hover and transition effects
+- Production-ready Vite build
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React**
+- **JavaScript**
+- **Vite**
+- **React Router**
+- **Lucide React**
+- **Tailwind CSS**
+- **ESLint**
 
-## Expanding the ESLint configuration
+## 📁 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```text
+src/
+├── assets/
+│   └── images/
+├── components/
+│   ├── home/
+│   ├── layout/
+│   ├── menu/
+│   └── ui/
+├── data/
+│   ├── menuData.js
+│   └── restaurantData.js
+├── pages/
+├── App.jsx
+├── App.css
+├── index.css
+└── main.jsx
