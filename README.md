@@ -5,7 +5,8 @@ and **Tailwind CSS**. Ember & Olive presents the restaurant's story,
 menu, dining experience, contact information, and a reservation request
 form through a warm, editorial-style interface.
 
-**Live Demo:** https://ember-olive-restaurant-lake.vercel.app/\
+**Live Demo:** https://ember-olive-restaurant-lake.vercel.app/
+
 **GitHub Repository:**
 https://github.com/chandrusm171-ux/Ember-Olive-Restaurant-
 
